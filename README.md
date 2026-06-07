@@ -278,11 +278,11 @@ To solve this issue:
 ### Back end
 ### "Error: ENOENT: no such file or directory, open '/etc/letsencrypt/live/<your_hosting_address>/fullchain.pem'"
 
-The issue arises because no HTTPS keys have been generated. please refer to [Back-End](### Back-End) for instruction on how to create HTTPS keys using Let's Encrypt.
+The issue arises because no HTTPS keys have been generated. Please refer to [Back-End](#Back-End) for instruction on how to create HTTPS keys using Let's Encrypt.
 
 ### " File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line XX, in create_connection sock.connect(sa) ConnectionRefusedError: [Errno 111] Connection refused"
 
-This problem occurs when there is no FastAPI server running. Please refer to [Back-End](### Back-End) in the section 'Create a Python virtual environment using venv' for the necessary passages to resolve the error.
+This problem occurs when there is no FastAPI server running. Please refer to [Back-End](#Back-End) in the section 'Create a Python virtual environment using venv' for the necessary passages to resolve the error.
 
 ### "Command '<command name>' not found, but can be installed with: sudo apt install <command_name>"
 
@@ -294,11 +294,11 @@ You need to install the requirements after creating the Python virtual environme
 
 This error occurs because the project you are creating is already linked with an existing Expo project. To resolve the error delete the `app.json` file and initialize the project again:
 - In the command line, in `smart-fit-journal/src/frontend/SmartFit`, enter `eas init`
-Follow the instructions from [Create an Expo Development Build](## Front-End)
+Follow the instructions from [Create an Expo Development Build](#Front-End)
 
 ## Contributing
 
-Any contribution is welcomed. Please refer to [Installation](## installation) for detailed instructions on how to set up and run this project on your machine.
+Any contribution is welcomed. Please refer to [Installation](#installation) for detailed instructions on how to set up and run this project on your machine.
 
 ## Authors and acknowledgment
 
