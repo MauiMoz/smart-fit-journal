@@ -1,7 +1,5 @@
 # SmartFit Journal
 
-## Badges
-
 > [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 > [![Frontend React Native](https://img.shields.io/badge/React%20Native-0.79.2-blue.svg)](/src/frontend/SmartFit)
 > [![Expo](https://img.shields.io/badge/Expo-53.0.9-violet.svg)](/src/frontend/SmartFit)
