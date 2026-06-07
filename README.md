@@ -252,10 +252,6 @@ Based on the instructions described above:
 <img src="doc/resources/Health_Report.gif" alt="Report" width="200"/>
 </div>
 
-## Support
-
-For issues or feature requests, please use the GitLab Issues page or send an Email to a11736437@unet.univie.ac.at.
-
 ## Roadmap
 
 Possible future improvements:
