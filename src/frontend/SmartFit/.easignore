@@ -1,0 +1,28 @@
+# Dependency folders
+node_modules/
+.expo/
+.cache/
+
+# Build artifacts
+build/
+dist/
+android/app/build/
+ios/build/
+web-build/
+
+# System & IDE files
+.DS_Store
+.vscode/
+.idea/
+
+# Logs & temp
+*.log
+*.tmp
+
+# Output files
+*.apk
+*.aab
+
+# Git (if applicable)
+.git/
+.gitignore

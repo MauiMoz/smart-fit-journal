@@ -1,0 +1,79 @@
+[
+  {
+    "features": [
+      48,
+      22,
+      1,
+      0.08
+    ],
+    "activity": "SWIMMING",
+    "title": "Freestyle Swim",
+    "label": 1
+  },
+  {
+    "features": [
+      27,
+      14,
+      1,
+      0.11
+    ],
+    "activity": "RUNNING",
+    "title": "Tempo Run",
+    "label": 1
+  },
+  {
+    "features": [
+      16,
+      15,
+      1,
+      0.19
+    ],
+    "activity": "CYCLING",
+    "title": "Road Biking",
+    "label": 1
+  },
+  {
+    "features": [
+      24,
+      42,
+      1,
+      0.3
+    ],
+    "activity": "RUNNING",
+    "title": "Jog",
+    "label": 1
+  },
+  {
+    "features": [
+      48,
+      50,
+      1,
+      0.09
+    ],
+    "activity": "SWIMMING",
+    "title": "Freestyle Swim",
+    "label": 1
+  },
+  {
+    "features": [
+      34,
+      27,
+      1,
+      0.49
+    ],
+    "activity": "CYCLING",
+    "title": "Road Biking",
+    "label": 1
+  },
+  {
+    "features": [
+      15,
+      47,
+      1,
+      0.21
+    ],
+    "activity": "RUNNING",
+    "title": "Evening Sprint",
+    "label": 1
+  }
+]
