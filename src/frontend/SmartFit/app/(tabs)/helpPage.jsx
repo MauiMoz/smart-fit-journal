@@ -15,7 +15,7 @@ export default function helpPage() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Please send an Email to: {"\n"} a11736437@unet.univie.ac.at</Text>
+      <Text style={styles.text}>Please send an Email to: {"\n"} company@email.com</Text>
     </View>
   )
 }
